@@ -1,0 +1,23 @@
+{
+  "name": "nodeAuth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^2.0.0",
+    "pug": "^2.0.3"
+  }
+}
